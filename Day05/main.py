@@ -1,4 +1,4 @@
-from star1 import *
+from star2 import *
 
 # Advent of Code 2020
 # Brendan Thompson
